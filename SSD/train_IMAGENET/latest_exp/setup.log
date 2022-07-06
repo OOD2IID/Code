@@ -1,0 +1,3 @@
+Namespace(arch='resnet50', batch_size=10, ckpt='/home/aamich/fall21/SSD/train_IMAGENET/latest_exp/checkpoint/checkpoint_13.pth.tar', continue=False, data_dir='/home/aamich/fall21/CycleGAN_pix2pix/IMAGENET', dataset='IMAGENET', epochs=500, exp_name='train_IMAGENET', in_channel=3, lr=0.5, method='SupCon', momentum=0.9, normalize=False, num_classes=100, print_freq=100, results_dir='/home/aamich/fall21/SSD', save_freq=1, seed=12345, size=256, temperature=0.5, training_mode='SimCLR', warmup=True, weight_decay=0.0001)
+Epoch 0, validation accuracy 0.1, best_prec 0.1
+Epoch 1, validation accuracy 0.1, best_prec 0.1
