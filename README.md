@@ -1,4 +1,4 @@
-# Code
+# Out2In
 Pytorch implementation related to the submission : Towards Machine Learning Models Resilient to
 Adversarial and Natural Distribution Shifts. Our code is implemented on top of [Pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
